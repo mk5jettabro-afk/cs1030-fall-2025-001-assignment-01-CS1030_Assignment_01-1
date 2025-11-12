@@ -1,9 +1,9 @@
 # CS 1030 Assignment 01
 
-## Your name
+Will Scott
 
-## Your student ID
+900672510
 
-## Your background in computing
+I mostly work with CAD and slicing software. I have built water cooled PC's and I am pretty good with AI.
 
-## What you'd like to learn in this class
+I am mostly trying to learn more about AI right now.
